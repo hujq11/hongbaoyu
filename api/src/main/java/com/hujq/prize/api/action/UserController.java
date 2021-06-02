@@ -40,7 +40,6 @@ public class UserController {
     @GetMapping("/info")
     @ApiOperation(value = "用户信息")
     public ApiResult info(HttpServletRequest request) {
-        //request.getSession()
         HttpSession session = request.getSession();
         CardUser user = (CardUser) redisUtil.get(RedisKeys.SESSIONID+session.getId());
         if (user == null){
