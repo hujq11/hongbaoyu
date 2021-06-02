@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5085b2c5-9a8f-4295-b8a9-bc796d6fa3d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1qNPqhSXAtwqzmcna9iePROHy8H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="G:/HongBaoYu/HongBaoYuQianDuan/HongBaoYuHouDuan" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\HongBaoYu\api\src\main\java\com\hujq\prize" />
+      <recent name="F:\HongBaoYu\commons\src\main\resources" />
+      <recent name="F:\HongBaoYu\commons\src\main\java\com\hujq\prize\commons" />
+      <recent name="F:\HongBaoYu\commons\src\main\resources\mapper" />
+      <recent name="F:\HongBaoYu\commons\src\main\java\com\itheima\prize\commons" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hujq.prize.config" />
+      <recent name="com.hujq.prize.commons.db.mapper" />
+      <recent name="com.hujq.prize.job.listner" />
+      <recent name="com.hujq.prize.job.annotation" />
+      <recent name="com.itheima.prize.commons.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\backend\src\main\webapp\res\images\zcurd" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Eureka">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="HongBaoYu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="coder" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="coder" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="backend [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../backend" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Api" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hujq.prize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hujq.prize.Api" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huj.prize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huj.prize.Eureka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Job" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="job" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hujq.prize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hujq.prize.Job" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Msg" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="msg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hujq.prize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hujq.prize.Msg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Maven.backend [tomcat7:run]" />
+      <item itemvalue="Spring Boot.Api" />
+      <item itemvalue="Spring Boot.Eureka" />
+      <item itemvalue="Spring Boot.Job" />
+      <item itemvalue="Spring Boot.Msg" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Eureka" />
+        <item itemvalue="Spring Boot.Job" />
+        <item itemvalue="Spring Boot.Msg" />
+        <item itemvalue="Spring Boot.Api" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.14959016" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5085b2c5-9a8f-4295-b8a9-bc796d6fa3d1" name="Default Changelist" comment="" />
+      <created>1616917266818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616917266818</updated>
+      <workItem from="1616917269465" duration="5048000" />
+      <workItem from="1616982416931" duration="6085000" />
+      <workItem from="1617181148728" duration="4594000" />
+      <workItem from="1617260781723" duration="6642000" />
+      <workItem from="1617287039009" duration="5328000" />
+      <workItem from="1617328396728" duration="2594000" />
+      <workItem from="1617332927006" duration="48000" />
+      <workItem from="1617333346029" duration="11510000" />
+      <workItem from="1617422411653" duration="22194000" />
+      <workItem from="1617466846058" duration="2536000" />
+      <workItem from="1617512686496" duration="7187000" />
+      <workItem from="1617604895238" duration="11064000" />
+      <workItem from="1617698737640" duration="10723000" />
+      <workItem from="1617760657305" duration="18621000" />
+      <workItem from="1617807311761" duration="422000" />
+      <workItem from="1617840870655" duration="5738000" />
+      <workItem from="1617932611927" duration="5352000" />
+      <workItem from="1617940609740" duration="3807000" />
+      <workItem from="1618130046168" duration="588000" />
+      <workItem from="1621050509866" duration="1957000" />
+      <workItem from="1621144995788" duration="829000" />
+      <workItem from="1621154657321" duration="1051000" />
+      <workItem from="1621225662108" duration="4479000" />
+      <workItem from="1621405696909" duration="2580000" />
+      <workItem from="1621853798386" duration="733000" />
+      <workItem from="1622643899249" duration="1889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Java" timestamp="1617434659395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Java/0.0.1536.824@0.0.1536.824" timestamp="1617434659395" />
+    <state x="361" y="74" key="#Project_Structure" timestamp="1617879070071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1617879070071" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621154822728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1621154822728" />
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1617879251348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1617879251348" />
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1621050517058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1621050517058" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1622645387253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622645387253" />
+    <state width="1244" height="290" key="GridCell.Tab.0.bottom" timestamp="1622644029250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1244" height="290" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622644029250" />
+    <state width="1244" height="290" key="GridCell.Tab.0.center" timestamp="1622644029250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1244" height="290" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622644029250" />
+    <state width="1244" height="290" key="GridCell.Tab.0.left" timestamp="1622644029249">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1244" height="290" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622644029249" />
+    <state width="1244" height="290" key="GridCell.Tab.0.right" timestamp="1622644029250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1244" height="290" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622644029250" />
+    <state width="1244" height="290" key="GridCell.Tab.1.bottom" timestamp="1622644029250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1244" height="290" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622644029250" />
+    <state width="1244" height="290" key="GridCell.Tab.1.center" timestamp="1622644029250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1244" height="290" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1622644029250" />
+    <state width="1244" height="290" key="GridCell.Tab.1.left" timestamp="1622644029250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1244" height="290" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1622644029250" />
+    <state width="1244" height="290" key="GridCell.Tab.1.right" timestamp="1622644029250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1244" height="290" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1622644029250" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1621050533819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621050533819" />
+    <state x="565" y="193" key="chooseDestDirectoryDialog" timestamp="1617517687327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="193" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1617517687327" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1621853917599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1621853917599" />
+    <state x="521" y="171" width="755" height="653" key="find.popup" timestamp="1617939136380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="171" width="755" height="653" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1617939136380" />
+    <state x="178" y="116" key="new project wizard" timestamp="1616986638158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="116" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1616986638158" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1617513229405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1617513229405" />
+    <state x="510" y="476" width="672" height="678" key="search.everywhere.popup" timestamp="1617877773901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="476" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1617877773901" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/test/Test.java</url>
+          <line>6</line>
+          <properties class="test.Test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

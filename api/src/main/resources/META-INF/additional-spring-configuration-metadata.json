@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.cloud.zookeeper.config.root",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.zookeeper.config.root."
+  }
+] }
